@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{9FFA8360-0BBF-7AA7-0617-18280CA03E00}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JSTurtles/SeaTurtle/Scripts/SeaTurtleCharacter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraController.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/LightController.cs" Line="22" Column="29" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="15" Column="40" />
+      <File FileName="Assets/JSTurtles/SeaTurtle/Scripts/SeaTurtleUserController.cs" Line="46" Column="43" />
+      <File FileName="Assets/JSTurtles/SeaTurtle/Scripts/SeaTurtleCharacter.cs" Line="72" Column="3" />
+      <File FileName="Assets/JSTurtles/SeaTurtle/readme.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="JSTurtles" expanded="True">
+                <Node name="SeaTurtle" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="SeaTurtleCharacter.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8205aade-beab-4a78-87df-2b175a967211" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
